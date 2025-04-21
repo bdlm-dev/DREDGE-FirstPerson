@@ -1,0 +1,16 @@
+{
+    "fov": {
+        "type": "slider",
+        "title": "mmbluey.firstperson.fov.title",
+        "tooltip": "mmbluey.firstperson.fov.tooltip",
+        "value": 60,
+        "min": 40,
+        "max": 100
+    },
+    "waves": {
+        "type": "toggle",
+        "title": "mmbluey.firstperson.waves.title",
+        "tooltip": "mmbluey.firstperson.waves.tooltip",
+        "value": true
+    }
+}

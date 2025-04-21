@@ -1,0 +1,10 @@
+{
+    "Author": "mmbluey",
+    "Name": "First Person",
+    "ModGUID": "mmbluey.firstperson",
+    "ModAssembly": "FirstPerson.dll",
+    "Entrypoint": "FirstPerson.Loader/Initialize",
+    "Version": "1.0.0",
+    "MinWinchVersion": "0.6.0",
+    "ApplyPatches": false
+}
